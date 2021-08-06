@@ -1,6 +1,4 @@
-### Here is What I'm Working On! 👋
-
-Here are some ideas to get you started:
+### print(Hello World) 👋
 
 - 🔭 I’m currently working on ... Data Science
 - 🌱 I’m currently learning ... MS SQL Server, Tableau, Power BI, Python
