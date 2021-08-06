@@ -1,10 +1,3 @@
 ### print("Hello World") 👋
 
-- 🔭 I’m currently working on ... Data Science, Data Analysis
-- 🌱 I’m currently learning ... Microsoft SQL Server, Tableau, Power BI, Python
-- 👯 I’m looking to collaborate on ... Microsoft SQL Server
-- 🤔 I’m looking for help with ... Microsoft SQL Server, Python
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/eser-karaceper/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I've just started my life after 30 years old.
+I'm Eser from Turkey, I do data analysis. I really enjoy learning new things related to data science. If you want to reach me you can check out my LinkedIn page [LinkedIn](https://www.linkedin.com/in/eser-karaceper/)
