@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/eser-karaceper/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm just started after 30 years old
+- ⚡ Fun fact: ... I've just started my life after 30 years old.
 -->
