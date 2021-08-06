@@ -1,4 +1,4 @@
-### print(Hello World) 👋
+### print('Hello World') 👋
 
 - 🔭 I’m currently working on ... Data Science
 - 🌱 I’m currently learning ... MS SQL Server, Tableau, Power BI, Python
