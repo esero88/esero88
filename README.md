@@ -7,3 +7,7 @@ I'm Eser from Turkey, I do data analysis. I really enjoy learning new things rel
 * 💻 Microsoft SQL Server
 * 🐍 Python
 * 💹 Power BI & Tableau
+
+## Graduation
+
+Industrial Engineering Degree | [Eastern Mediterranean University](www.emu.edu.tr)
