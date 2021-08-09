@@ -10,5 +10,5 @@ I'm Eser from Turkey, I do data analysis. I really enjoy learning new things rel
 
 ## Graduation
 
-BSc Mechanical Engineering Degree | [Eastern Mediterranean University](www.emu.edu.tr)
+BSc Mechanical Engineering Degree | [Eastern Mediterranean University](www.emu.edu.tr)<br/>
 MSc Industrial Engineering Degree | [Eastern Mediterranean University](www.emu.edu.tr)
