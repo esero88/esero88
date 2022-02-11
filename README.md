@@ -1,6 +1,6 @@
 ### print("Hello World") 👋
 
-I'm Eser from Turkey, I do data analysis. I really enjoy learning new things related to data science. If you want to reach me you can check out my [LinkedIn](https://www.linkedin.com/in/eser-karaceper/) and [HackerRank](https://www.hackerrank.com/eserkaraceper88) pages.
+I'm Eser from Turkey, I do data analysis. I really enjoy learning new things related to data science. If you want to reach me you can either e-mail eserkaraceper88@gmail.com me or check out my [LinkedIn](https://www.linkedin.com/in/eser-karaceper/) profile and [HackerRank](https://www.hackerrank.com/eserkaraceper88) pages.
 
 ## Skills and Experience
 
