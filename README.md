@@ -15,5 +15,5 @@ MSc Industrial Engineering Degree | [Eastern Mediterranean University](www.emu.e
 
 ## Currently Working On
 
-* 📊 Google Data Analytics Professional Certificate (Coursera) — currently on Course 2: Ask Questions to Make Data-Driven Decisions
+* 📊 Google Data Analytics Professional Certificate (Coursera) — currently on Course 3: Prepare Data for Exploration
 * 🐦 Sentiment analysis project on Twitter/X data using Python (VADER/TextBlob) and Power BI/Tableau
