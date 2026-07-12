@@ -1,12 +1,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=esero88&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
 
 
 ### print("Hello World") 👋
@@ -20,7 +21,7 @@ Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/eser-karaceper/
 
 | Tool | Area |
 |------|------|
-| 🗄️ Microsoft SQL Server, PostgreSQL | Data querying & warehousing |
+| 🗄️ Microsoft SQL Server, PostgreSQL, BigQuery | Data querying & warehousing |
 | 🐍 Python | Analysis, ML, NLP, Data Cleaning, Data Preparation |
 | 📊 Power BI & Tableau & Looker Studio | Data visualization |
 
