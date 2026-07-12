@@ -41,6 +41,7 @@ Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/eser-karaceper/
 | [Lettuce Growth Analysis](https://www.kaggle.com/code/eserkaraceper/lettuce-growth-analysis) | Python, Pandas, Seaborn, Scikit-learn | ✅ Completed |
 | [Galatasaray Twitter Sentiment Analysis](https://www.kaggle.com/eserkaraceper) | Python, BERT (savasy/bert-base-turkish-cased) | 🔄 In Progress |
 | [Bank Customer Segmentation](https://www.kaggle.com/datasets/eserkaraceper/banking-data-warehouse-sample/data) | SQL, Python | ✅ Completed |
+| [A/B Testing Analysis - E-commerce Dataset](https://github.com/esero88/ab-testing-ecommerce-analytics) | Python, SQL, Power BI | ✅ Completed |
 
 ---
 
