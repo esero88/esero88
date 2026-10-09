@@ -44,8 +44,4 @@ Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/eser-karaceper/
 | [WHO Health Indicators Analysis](https://github.com/esero88/data-analytics-mini-projects/tree/main/who-health-indicators-analysis) | Python (requests, pandas), Tableau | ✅ Completed |
 | [A/B Testing Analysis - E-commerce Dataset](https://github.com/esero88/ab-testing-ecommerce-analytics) | Python, SQL, Power BI | ✅ Completed |
 
----
 
-## 📚 Currently Learning
-
-* 📈 Google Data Analytics Professional Certificate (Coursera) — Course 3: Prepare Data for Exploration
