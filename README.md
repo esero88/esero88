@@ -1,47 +1,36 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=esero88&theme=tokyonight)
+### Hi, I'm Eser 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+**BI Developer & Data Analyst in Istanbul.** I turn messy business data into dashboards, data models and automations that teams use every day. Today I work with Power BI, SQL and Power Platform, and I build AI agents with Copilot Studio.
 
-
-
-### print("Hello World") 👋
-
-I'm Eser from Turkey — a data analyst passionate about turning raw data into meaningful insights.
-Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/eser-karaceper/) · [Kaggle](https://www.kaggle.com/eserkaraceper) · eserkaraceper88@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eser-karaceper/) · [Kaggle](https://www.kaggle.com/eserkaraceper) · eserkaraceper88@gmail.com
 
 ---
 
 ## 🛠️ Skills
 
-| Tool | Area |
-|------|------|
-| 🗄️ Microsoft SQL Server, PostgreSQL, BigQuery | Data querying & warehousing |
-| 🐍 Python | Analysis, ML, NLP, Data Cleaning, Data Preparation |
-| 📊 Power BI & Tableau & Looker Studio | Data visualization |
-
----
-
-## 🎓 Education
-
-🎓 BSc Mechanical Engineering — [Eastern Mediterranean University](https://www.emu.edu.tr)
-🎓 MSc Industrial Engineering — [Eastern Mediterranean University](https://www.emu.edu.tr)
+| Area | Tools |
+|------|-------|
+| Data visualization | Power BI (DAX), Tableau, Looker Studio |
+| Databases and modeling | SQL Server, PostgreSQL, BigQuery, Kimball star schema |
+| Automation and AI | Power Apps, Power Automate, Copilot Studio (agents), Microsoft Fabric |
+| Analysis | Python (pandas, scikit-learn), A/B testing, RFM segmentation |
 
 ---
 
 ## 🚀 Projects
 
-| Project | Tools | Status |
-|---------|-------|--------|
-| [Lettuce Growth Analysis](https://www.kaggle.com/code/eserkaraceper/lettuce-growth-analysis) | Python, Pandas, Seaborn, Scikit-learn | ✅ Completed |
-| [Galatasaray Twitter Sentiment Analysis](https://github.com/esero88/galatasaray-twitter-sentiment-analysis) | Python, BERT (savasy/bert-base-turkish-cased) | 🔄 In Progress |
-| [Bank Customer Segmentation](https://www.kaggle.com/datasets/eserkaraceper/banking-data-warehouse-sample/data) | SQL, Python | ✅ Completed |
-| [WHO Health Indicators Analysis](https://github.com/esero88/data-analytics-mini-projects/tree/main/who-health-indicators-analysis) | Python (requests, pandas), Tableau | ✅ Completed |
-| [A/B Testing Analysis - E-commerce Dataset](https://github.com/esero88/ab-testing-ecommerce-analytics) | Python, SQL, Power BI | ✅ Completed |
+All five projects live in [eser-portfolio](https://github.com/esero88/eser-portfolio). Each folder has its own README with the question, method and findings.
 
+| Project | What it shows | Tools |
+|---------|---------------|-------|
+| [Bank Customer Segmentation](https://github.com/esero88/eser-portfolio/tree/main/bank-customer-segmentation) | Kimball data warehouse, four data marts, behavior and RFM segments | PostgreSQL, Python |
+| [PaySim Fraud Data Warehouse](https://github.com/esero88/eser-portfolio/tree/main/fintech-paysim-analysis) | Star schema, fraud data mart and a three page report | PostgreSQL, Power BI |
+| [Ad Campaign ROAS](https://github.com/esero88/eser-portfolio/tree/main/ad-campaign-roas) · [live dashboard](https://public.tableau.com/app/profile/eser.karaceper/viz/ad-campaign-roas-dashboard/AdCampaignPerformance) | Which ad platform returns the most per dollar and where budget could shift | Tableau, Python |
+| [A/B Testing, E-commerce](https://github.com/esero88/eser-portfolio/tree/main/ab-testing-ecommerce-analytics) | Z-test on 100K users, and why the variants should not be rolled out | Python, SQL, Power BI |
+| [WHO Health Indicators](https://github.com/esero88/eser-portfolio/tree/main/who-health-indicators-analysis) | Country comparison of doctor density and immunization coverage | Python, Tableau |
 
+---
+
+## 🎓 Education
+
+MSc Industrial Engineering and BSc Mechanical Engineering, [Eastern Mediterranean University](https://www.emu.edu.tr)
